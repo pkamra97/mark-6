@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@300&family=Noto+Sans&family=Poppins:wght@300&display=swap');
+
+body{
+    font-family: 'Figtree', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin:0px;
+}
+:root{
+    --primary-color-: #fbbf24;
+    --off-grey:#4b5563;
+    --off-white:
+
+}
+.container{
+    padding-left: 5rem;
+    padding-right: 5rem;
+    margin: auto;
+}
+
+.container-center{
+    max-width: 300px;
+    margin: auto;
+}
+    
+.clr{
+    background-color: var(--primary-color-);
+}
+.section{
+    padding: 1rem;
+}
+.txt-ar{
+    display: block;
+    /* margin: auto; */
+    height: 15vh;
+    width: 40%;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-left: 23rem;
+}
+.btn{
+    background-color: #fbbf24;
+    color: black;
+    height: 10vh;
+    width: 250px;
+    border:none;
+    font-size: large;
+    border-radius: .5rem;
+    margin-left: 23rem;
+}
+
+.footer{
+    background-color: #fbbf24;
+}
