@@ -1,22 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 
 body{
-    margin:0px;
-    background-color:#f59e0b;
+    margin: 0px;
+    background-color:white;
     font-family: 'Shadows Into Light', cursive;
 }
-:root{
-    --primary-color-:#f59e0b;
+header,footer{
+    background-color: #f59e0b;   
 }
 h1{
+    margin-top: 0;
     text-align: center;
-    /* color: antiquewhite; */
-    color: white;
+    color:black;
 }
 h2{
     text-align: center;
-    /* color: antiquewhite;/ */
-    color: white;
+    color:black;
 }
 button{
     background-color:#a8a29e;
