@@ -7,7 +7,7 @@ Mark-6 is about translating  the english language into minion language
 with the help of fun translations api.
 
 ``` javascript
-https://api.funtranslations.com/translate/  
+https://api.funtranslations.com/translate/minion.json 
 ```
 >It Simply works with your provided input and will give a output in a Minion based language.
 
